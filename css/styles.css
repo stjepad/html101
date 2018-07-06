@@ -73,3 +73,10 @@ footer{
 footer a {
     color: goldenrod;
 }
+
+.flex-item {
+    background-color: hotpink;
+    width: 30%;
+    margin: 1em;
+    text-align: center;
+}
